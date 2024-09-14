@@ -1,0 +1,13 @@
+.addForm{
+    margin-top: 20px;
+    border: 1.5px solid black;
+    width: inherit;
+    padding: 5px;
+}
+
+.addTaskHeading{
+    font-weight: 500;
+    font-family: math;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
